@@ -37,8 +37,8 @@ Best of luck !!
 
 By default we register one user. The credentials for login are :-
 
-# Email = admin@topntech.com
-# Password = root1234
+Email = admin@topntech.com
+Password = root1234
 
 ## Features :-
 
