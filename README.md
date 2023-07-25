@@ -33,6 +33,13 @@ run : npm run dev
 run : php artisan serve
 
 Best of luck !!    
+
+
+By default we register one user. The credentials for login are :-
+
+## Email = admin@topntech.com
+## Password = root1234
+
 ## Features :-
 
 1. User Management 
