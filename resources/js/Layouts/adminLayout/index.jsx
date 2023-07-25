@@ -22,45 +22,7 @@ const AdminLayout = ({ children }) => {
         <Sidebar />
         <div className="main-content">
           <Header />
-          {/* Bio card */}
-          {/* <div className="card_head py-5 bg-white border-bottom" style={{ height: "204px" }}>
-            <div className="container">
-              <div className="row justify-content-between">
-                <div className="col-6">
-                  <div className="d-flex">
-                    <img
-                      src={user2}
-                      alt="user pic"
-                      className="rounded-circle border border-white"
-                      width="60"
-                      height="60"
-                    />
-                    <span className="ms-3">
-                      <h2>Welcome back, Brian!</h2>
-                      <p>
-                        <span><i className="bi bi-bell-fill"></i></span> You have 2
-                        new messages and 15 new tasks
-                      </p>
-                    </span>
-                  </div>
-                </div>
-                <div className="col-4">
-                  <div className="buttons mt-3 text-end">
-                    <button className="btn rounded-pill btn-dark px-4 py-2">
-                      <i className="bi bi-envelope-fill text-white fs-6 me-2"></i>
-                      <span className="text-white">Messages</span>
-                    </button>
-                    <button className="btn rounded-pill bg-info px-4 py-2">
-                      <i className="bi bi-gear-fill text-white fs-6 me-2"></i>
-                      <span className="text-white">Settings</span>
-                    </button>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div> */}
           {/* Tabs section */}
-
           <main className="">{children}</main>
 
         </div>

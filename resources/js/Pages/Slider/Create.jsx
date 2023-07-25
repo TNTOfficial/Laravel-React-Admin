@@ -165,7 +165,7 @@ const SlideCreate = () => {
                 </div>
             </div>
             {show && (
-                <ImageCropper image={image} setCroppedImage={setCroppedImage} aspectRatio={1}></ImageCropper>
+                <ImageCropper image={image} setCroppedImage={setCroppedImage} aspectRatio={16/9}></ImageCropper>
             )}
         </div>
     );
