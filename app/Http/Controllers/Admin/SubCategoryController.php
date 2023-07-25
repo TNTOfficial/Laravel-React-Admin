@@ -4,15 +4,10 @@ namespace App\Http\Controllers\Admin;
 
 use App\Http\Controllers\Controller;
 use App\Models\Category;
-use App\Models\FieldOption;
-use App\Models\FormField;
-use App\Models\InputControl;
 use App\Models\SubCategory;
 use Illuminate\Http\Request;
 use Inertia\Inertia;
 use Illuminate\Support\Str;
-use PhpParser\Node\Expr\Cast\String_;
-use Symfony\Component\Console\Input\Input;
 
 class SubCategoryController extends Controller
 {

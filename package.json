@@ -22,11 +22,13 @@
     "dependencies": {
         "@fortawesome/free-solid-svg-icons": "^6.4.0",
         "@fortawesome/react-fontawesome": "^0.2.0",
+        "@react-icons/all-files": "^4.1.0",
         "@tinymce/tinymce-react": "^4.3.0",
         "bootstrap": "^5.3.0",
         "chart.js": "^4.3.0",
         "cropperjs": "^1.5.13",
         "file-saver": "^2.0.5",
+        "font-awesome": "^4.7.0",
         "jquery": "^3.7.0",
         "js-cookie": "^3.0.5",
         "jspdf": "^2.5.1",
@@ -41,6 +43,7 @@
         "react-sortable": "^2.0.0",
         "sortablejs": "^1.15.0",
         "sweetalert2": "^11.7.12",
+        "swiper": "^10.0.4",
         "tinymce": "^6.5.0"
     }
 }

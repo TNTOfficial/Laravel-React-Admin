@@ -520,6 +520,7 @@ tbody tr:hover td {
 .profile_tabs .nav-link.active span {
   border-color: white;
 }
+
 .profile_tabs .nav-link.active span i {
   color: white;
 }
@@ -607,6 +608,7 @@ tbody tr:hover td {
   font-weight: 500;
   font-size: 16px;
 }
+
 .form-group .form-control {
   border-radius: 10px;
   height: 51px;
@@ -625,6 +627,7 @@ tbody tr:hover td {
   rotate: 90deg;
   transition: rotate 0.2s;
 }
+
 .collapsed .downarrow {
   rotate: 0deg;
 }

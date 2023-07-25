@@ -32,3 +32,19 @@ img {
     transform: scale(1.1);
     transition: all 0.3s ease-in-out;
 }
+
+.butn{
+    text-decoration: none;
+    padding: 10px 15px;
+    border-radius: 5px;
+    background: green;
+    color: white;
+    font-weight: 600;
+    margin: 0 10px;
+    transition: all 0.3s ease-in-out;
+
+}
+.butn:hover{
+    transform: translateY(-5px);
+    transition: all 0.3s ease-in-out;
+}
