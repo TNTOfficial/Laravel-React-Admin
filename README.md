@@ -9,6 +9,7 @@ LaraReactAdmin is a fully responsive administration template. Based on Bootstrap
 LaraReactAdmin has been carefully coded with clear comments in all of its JS, SCSS and HTML files. SCSS has been used to increase code customizability.
 
 
+![laraReactAdmin](https://github.com/TNTOfficial/LaraReactAdmin/assets/115581147/1da2efc8-fc11-493f-b270-87c52f66a0e5)
 
 ## Installation Guide :-
 
